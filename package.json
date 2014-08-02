@@ -1,6 +1,6 @@
 {
   "name": "json-protobuf-encoding",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "JSON encoding for protobuf",
   "main": "index.js",
   "dependencies": {
